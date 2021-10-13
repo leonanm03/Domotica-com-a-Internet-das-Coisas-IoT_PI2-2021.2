@@ -9,3 +9,5 @@ Neste projeto utilizaremos uma maquete para demonstrar o funcionamento da Domót
 STARKE, Renan Augusto. **Git_tutorial.** 2021. Disponível em: <https://github.com/xtarke/git_tutorial/>. Acesso em: 13 out. 2021.
 
 **GUIA básico de Markdown.** [20--]. Disponível em: <https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open>. Acesso em: 13 out. 2021.
+
+**TUTORIAL Github.** Realização de Renan Augusto Starke. 2021. (19 min.), color. Disponível em: <https://www.youtube.com/watch?v=1LAtsmVvuXY>. Acesso em: 13 out. 2021.
