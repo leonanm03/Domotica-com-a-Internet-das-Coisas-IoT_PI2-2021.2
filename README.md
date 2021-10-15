@@ -9,11 +9,11 @@
    
    A domótica tem como objetivo realizar a integração de equipamentos, estejam eles em espaços públicos ou privados, podendo realizar seu controle de forma local ou remotamente. Sendo assim, possível de controlar sistema de iluminação a partir de sensores, timers, smartphones. Cortinas e persianas também da mesma forma. Eletrodomésticos, portas, sistemas de irrigação, climatização e demais equipamentos que venham a ser compatíveis. Também é possível realizar a integração do sistema de segurança tornando os locais mais fáceis de monitorar e manter longe de perigo.
  
-  Às vezes podemos não perceber, mas já convivemos com a prática de automação residencial a muito tempo. Seja apertando um botão do controle remoto para mudar o canal da TV, programando um forno elétrico para assar um bolo por 40 minutos a 180 °C ou até mesmo quando colocamos a roupa na máquina de levar com sabão e amaciante e comfiguramos ela para realizar a lavação. Em todos estes momentos estamos fazendo com que um equipamento execute uma determinada terefa em nosso lugar.
+  Às vezes podemos não perceber, mas já convivemos com a prática de automação residencial a muito tempo. Seja apertando um botão do controle remoto para mudar o canal da TV, programando um forno elétrico para assar um bolo por 40 minutos a 180 °C ou até mesmo quando colocamos a roupa na máquina de levar com sabão e amaciante e configuramos ela para realizar a lavação. Em todos estes momentos estamos fazendo com que um equipamento execute uma determinada tarefa em nosso lugar.
   
   À medida que o tempo passa e a tecnologia vai avançando, cada vez mais a domótica está presente em nosso cotidiano, sempre proporcinando formas de facilitar a vida com procedimentos automatizados. Além disso, também é possível perceber que com toda a evolução que vem ocorrendo nos meios tecnológicos, cada vez mais pessoas com deficiencias que lhes impõem dependências, aos poucos vão recuperando sua total independência a partir de equipamentos automatizados.
   
-  Para concluir, podemos perceber que a domótica é uma ferramenta de grande importância e muito presente em nosso dia a dia, o que faz dela um grande objeto de estudo para nos motivar a cada vez mais a evoluir e agilizar várias atividades do cotidiano, nos proporcianando uma coisa muito importante que recentemente é muito difícil se possuir: tempo.
+  Para concluir, podemos perceber que a domótica é uma ferramenta de grande importância e muito presente em nosso dia a dia, o que faz dela um grande objeto de estudo para nos motivar a cada vez mais a evoluir e agilizar várias atividades do cotidiano, nos proporcianando algo muito importante que recentemente é muito difícil se possuir: tempo.
   
  
 ## Referências
