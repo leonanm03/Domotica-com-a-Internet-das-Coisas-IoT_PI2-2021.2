@@ -1,7 +1,13 @@
-# Domotica-com-a-Internet-das-Coisas-IoT_PI2-2021.2
-Neste projeto utilizaremos uma maquete para demonstrar o funcionamento da Domótica Integrada com a Internet das coisas.
+# Domótica com a Internet das Coisas - IoT __ Projeto Integrador 2 2021/2
 
+  Neste projeto utilizaremos uma maquete para demonstrar o funcionamento da Domótica Integrada com a Internet das coisas.
 
+# Domótica
+
+  Domótica significa Automação Residencial, é um termo originário do francês "_Domotique_" a partir da junção das palavras _Domus_ (casa) e _Imotique_ (automática) e é conhecido mundialmente em inglês como Home Automation.
+  A domótica tem como objetivo realizar a integração de equipamentos, estejam eles em espaços públicos ou privados, podendo realizar seu controle de forma local ou remotamente. Sendo possível controlar sistema de iluminação a partir de sensores, timers, smartphones. Cortinas e persianas também da mesma forma. Eletrodomésticos, portas, sistemas de irrigação, climatização e demais equipamentos que venham a ser compatíveis. Também é possível realizar a integração do sistema de segurança tornando os locais mais fáceis de monitorar e manter longe de perigo.
+  Às vezes podemos não perceber, mas já convivemos com a prática de automação residencial a muito tempo. 
+  
 
 ## Referências
 
