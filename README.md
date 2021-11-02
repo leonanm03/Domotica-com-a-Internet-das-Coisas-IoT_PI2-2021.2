@@ -1,6 +1,16 @@
 # Domótica com a Internet das Coisas - IoT __ Projeto Integrador 2 2021/2
 
   Neste projeto utilizaremos uma maquete para demonstrar o funcionamento da Domótica Integrada com a Internet das coisas.
+  
+### Acesso rápido:
+[Concepção](./concepcao.md)
+
+[Design](./design.md)
+
+[Implementação](./implementacao.md)
+
+[Operação](./operacao.md)
+
 
 # Domótica
 
