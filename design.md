@@ -27,4 +27,4 @@ Quantidade  | Componente
 ## Maquete Eletrônica
 A figura abaixo mostra como os componentes ficarão conectados ao arduino.
 
-![Maquete_Eletrônica](./figuras/maquete_eletronica.png)
+![Maquete_Eletrônica](./figuras/Maquete_eletronica.png)
