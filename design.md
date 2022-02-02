@@ -24,7 +24,7 @@ Quantidade  | Componente
 1           | LDR
 1           | Resistor 10k ohms
 
-### Os componentes eletrônicos em questão funcionarão da seguinte forma:
+### Os componentes eletrônicos em questão funcionam da seguinte forma:
 
 
 **-Placa MEGA 2560 R3** (Arduino)
@@ -60,15 +60,16 @@ Será o “alto falante” do sistema, para emitir sons quando for necessário.
 **-Display LCD 16×2 I2C Backlight Azul**
 Poderá se comunicar com o usuário mais detalhadamente, como por exemplo: "Vazamento de gás detectado".
 
+## Maquete Eletrônica
+A figura abaixo mostra como os componentes ficarão conectados ao arduino.
+
+![Maquete_Eletrônica](./figuras/Maquete_eletronica.png)
+
+
+
+
 ## Referências
 PLACA Mega 2560 R3 Arduino. Disponível em: <https://www.usinainfo.com.br/placas-arduino/placa-mega-2560-r3-arduino-cabo-usb-3629.html>. Acesso em: 02 nov. 2021.
 FILIPEFLOP. Filipeflop. Disponível em: <https://www.filipeflop.com/>. Acesso em: 02 nov. 2021.
 
 ELETRÔNICA CASTRO. MODULO SENSOR DE UMIDADE NIVEL AGUA CHUVA ARDUINO. Disponível em: <https://www.eletronicacastro.com.br/arduino/14906-modulo-sensor-de-umidade-nivel-agua-chuva-ardui-0000000149068.html>. Acesso em: 02 nov. 2021.
-
-
-
-## Maquete Eletrônica
-A figura abaixo mostra como os componentes ficarão conectados ao arduino.
-
-![Maquete_Eletrônica](./figuras/Maquete_eletronica.png)
