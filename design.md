@@ -69,6 +69,7 @@ A figura abaixo mostra como os componentes ficarão conectados ao arduino.
 A figura abaixo mostra a planta baixa do modelo que irá demonstrar o funcionamento do projeto. Esta planta foi criada utilizando o software "Sweet Home 3D".
 
 ![Planta_baixa](./figuras/planta.png)
+![Planta_baixa_legenda](./figuras/planta_legenda.png)
 
 
 
