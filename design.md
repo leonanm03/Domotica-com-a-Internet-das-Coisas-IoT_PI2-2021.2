@@ -65,6 +65,11 @@ A figura abaixo mostra como os componentes ficarão conectados ao arduino.
 
 ![Maquete_Eletrônica](./figuras/Maquete_eletronica.png)
 
+## Planta Baixa
+A figura abaixo mostra a planta baixa do modelo que irá demonstrar o funcionamento do projeto.
+
+![Planta_baixa](./figuras/planta.png)
+
 
 
 
