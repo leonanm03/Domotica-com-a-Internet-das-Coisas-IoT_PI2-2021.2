@@ -66,15 +66,19 @@ A figura abaixo mostra como os componentes ficarão conectados ao arduino.
 ![Maquete_Eletrônica](./figuras/Maquete_eletronica.png)
 
 ## Planta Baixa
-A figura abaixo mostra a planta baixa do modelo que irá demonstrar o funcionamento do projeto.
+A figura abaixo mostra a planta baixa do modelo que irá demonstrar o funcionamento do projeto. Esta planta foi criada utilizando o software "Sweet Home 3D".
 
 ![Planta_baixa](./figuras/planta.png)
+![Planta_baixa_legenda](./figuras/planta_legenda.png)
 
 
 
 
 ## Referências
 PLACA Mega 2560 R3 Arduino. Disponível em: <https://www.usinainfo.com.br/placas-arduino/placa-mega-2560-r3-arduino-cabo-usb-3629.html>. Acesso em: 02 nov. 2021.
+
 FILIPEFLOP. Filipeflop. Disponível em: <https://www.filipeflop.com/>. Acesso em: 02 nov. 2021.
 
 ELETRÔNICA CASTRO. MODULO SENSOR DE UMIDADE NIVEL AGUA CHUVA ARDUINO. Disponível em: <https://www.eletronicacastro.com.br/arduino/14906-modulo-sensor-de-umidade-nivel-agua-chuva-ardui-0000000149068.html>. Acesso em: 02 nov. 2021.
+
+ETEKS. **Sweet Home 3D**. 2006. Disponível em: <https://www.sweethome3d.com/pt/>. Acesso em: 31 jan. 2022.
