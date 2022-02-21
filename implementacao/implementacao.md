@@ -9,6 +9,7 @@ Antes de efetivamente colocar os componentes no modelo, também é necessário q
 
 Seguem abaixo os links de acesso para a testagem de cada componente:
 
+- [Módulo Sensor de Umidade/Nível Água Chuva](testes/agua_sensor/agua_sensor.md)
 
 
   
