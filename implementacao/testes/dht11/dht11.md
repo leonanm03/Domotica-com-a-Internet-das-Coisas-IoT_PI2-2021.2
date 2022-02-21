@@ -1,5 +1,5 @@
 # Sensor de Umidade e Temperatura DHT11
-O sensor DHT11, faz a aferição da temperatura e da humidade do local e retorna o valor pela comunicação serial. Para demonstração do teste, o retorno é mostrado na janela de comunicação serial do arduino.
+O sensor DHT11, faz a aferição da temperatura e da humidade do local e retorna o valor pela comunicação serial. Para demonstração do teste, o retorno é mostrado na janela do monitor serial do arduino.
 
 Segue abaixo o circuito montado e o resultado na tela do arduino.
 
