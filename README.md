@@ -5,7 +5,7 @@
 ### Acesso rápido:
 [Concepção](./concepcao.md)
 
-[Design](./design.md)
+[Design](./design/design.md)
 
 [Implementação](./implementacao/implementacao.md)
 
