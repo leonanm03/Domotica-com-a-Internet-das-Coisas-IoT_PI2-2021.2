@@ -63,13 +63,13 @@ Poderá se comunicar com o usuário mais detalhadamente, como por exemplo: "Vaza
 ## Maquete Eletrônica
 A figura abaixo mostra como os componentes ficarão conectados ao arduino.
 
-![Maquete_Eletrônica](./figuras/mqt_eletronica.png)
+<img src = "mqt_eletronica.png" alt = "Maquete Eletrônica" width = "1000" />
 
 ## Planta Baixa
 A figura abaixo mostra a planta baixa do modelo que irá demonstrar o funcionamento do projeto. Esta planta foi criada utilizando o software "Sweet Home 3D".
 
-![Planta_baixa](./figuras/planta_baixa.png)
-![Planta_baixa_legenda](./figuras/planta_legenda.png)
+<img src = "planta_baixa.png" alt = "Planta Baixa" width = "1000" />
+<img src = "planta_legenda.png" alt = "Legenda da Planta Baixa" width = "1000" />
 
 
 
