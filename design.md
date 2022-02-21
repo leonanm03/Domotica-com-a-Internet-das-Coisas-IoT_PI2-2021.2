@@ -63,7 +63,7 @@ Poderá se comunicar com o usuário mais detalhadamente, como por exemplo: "Vaza
 ## Maquete Eletrônica
 A figura abaixo mostra como os componentes ficarão conectados ao arduino.
 
-![Maquete_Eletrônica](./figuras/Maquete_eletronica.png)
+![Maquete_Eletrônica](./figuras/mqt_eletronica.png)
 
 ## Planta Baixa
 A figura abaixo mostra a planta baixa do modelo que irá demonstrar o funcionamento do projeto. Esta planta foi criada utilizando o software "Sweet Home 3D".
