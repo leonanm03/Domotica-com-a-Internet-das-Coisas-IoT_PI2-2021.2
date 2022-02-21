@@ -11,10 +11,10 @@ Nestas duas primeiras imagens, temos o sensor seco, e na saída serial conseguim
 
 
 
-Já nestas duas outra imagens, pingamos uma gota de água no sensor, aí então o LED acende e ele começa a marcar valores de 300 ou mais.
+Já nestas duas outras imagens, pingamos uma gota de água no sensor, aí então o LED acende e ele começa a marcar valores de 300 ou mais na saída serial.
 
 <img src = "agua_foto_1.jpeg" alt = "Modulo pingado" width = "500" /> <img src = "agua_valor_1.jpeg" alt = "Saída serial agua" width = "140" />
 
+Tanto o código utilizado para realizar o teste quanto o tutorial de montagem, estão no repositório disponibilizado pelos professores neste link:
+<https://github.com/LPAE/arduino_tutorial/tree/main/agua>
 
-
-## Referências
