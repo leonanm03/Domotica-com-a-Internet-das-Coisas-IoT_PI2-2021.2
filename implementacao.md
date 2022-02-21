@@ -1,6 +1,6 @@
 # Implementação
 
-Para dar continuidade ao projeto à partir das ideias que temos na [concepção](./concepcao.md) e das ilustrações em [design](./design.md), se torna necessário agora "por a mão na massa" e começar a concretizar nosso protótipo utilizando os componentes eletrônicos disponíveis, programando eles na IDE do arduino e posicionando eles no nosso modelo.
+Para dar continuidade ao projeto à partir das ideias que temos na [concepção](./concepcao.md) e das necessidades apontadas em [design](./design.md), se torna necessário agora "por a mão na massa" e começar a concretizar nosso protótipo utilizando os componentes eletrônicos disponíveis, programando eles na IDE do arduino e posicionando eles no nosso modelo.
 
 
 ## Teste
