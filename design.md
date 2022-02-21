@@ -13,7 +13,7 @@ Quantidade  | Componente
 1           | Sensor de Umidade e Temperatura DHT11
 2           | Sensor de presença e movimento PIR           
 1           | Sensor de gás MQ-2 inflamável e fumaça
-1           | Micro Servo SG92R 9g TowerPro
+2           | Micro Servo SG92R 9g TowerPro
 1           | Módulo Sensor de Umidade/Nível Água Chuva
 1           | Módulo Relé 5 V e um Canal
 1           | Sensor ultrasônico HC-SR04
