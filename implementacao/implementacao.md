@@ -10,6 +10,16 @@ Antes de efetivamente colocar os componentes no modelo, também é necessário q
 Seguem abaixo os links de acesso para a testagem de cada componente:
 
 - [Módulo Sensor de Umidade/Nível Água Chuva](testes/agua_sensor/agua_sensor.md)
+- [Buzzer passivo](testes/buzzer/buzzer.md)
+- [Sensor de Umidade e Temperatura DHT11](testes/dht11/dht11.md)
+- [Sensor de presença e movimento PIR](testes/pir/pir.md)
+- [Sensor de gás MQ-2 inflamável e fumaça](testes/mq2/mq2.md)
+- [Micro Servo SG92R 9g TowerPro](testes/servo/servo.md)
+- [Módulo Relé 5 V](testes/rele/rele.md)
+- [Sensor ultrasônico HC-SR04](testes/hcsr04/hcsr04.md)
+- [Módulo Matriz de LED 8×8](testes/matriz_led/matriz_led.md)
+- [Display LCD](testes/display_lcd/display_lcd.md)
+- [LDR](testes/ldr/ldr.md)
 
 
   
