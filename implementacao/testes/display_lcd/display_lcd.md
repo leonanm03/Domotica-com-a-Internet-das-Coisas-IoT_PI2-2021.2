@@ -1,4 +1,4 @@
-#Display LCD 16×2 I2C Backlight Azul
+# Display LCD 16×2 I2C Backlight Azul
 
 Para este display de LCD, foram necessárias as conexões de 4 pinos, os 2 de alimentação (VCC e GND) e outros dois de comunicação serial SDA e SCL, além da biblioteca LiquidCrystal_I2C.
 
