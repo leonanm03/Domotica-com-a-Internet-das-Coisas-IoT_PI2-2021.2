@@ -8,8 +8,6 @@ Neste projeto, estaremos realizando a implementação da Domótica, no intúito 
 - Disponibilizar o controle do portão eletrônico do local.
 - Verificar por proximidade e presença se há alguém no portão aguardando para entrar e acionar a campainha para notificar o usuário. Tornando possível que ele abra ou não o portão no caso de vizitantes.
 - Detectar se está chovendo e automaticamente fechar as janelas e notificar o usuário sobre a chuva para que ele lembre de tirar suas roupas do varal.
-- Detectar movimentação no local quando o usuário não está presente, caso ocorra, acionar o alarme enviar notificação, no intúito de previnir atividade suspeita na residência.
-- Abrir as cortinas ao amanhecer e ativar o despertador, para auxiliar que o usuário acordee inicie seu dia.
+- Abrir as janelas ao amanhecer e ativar o despertador, para auxiliar que o usuário acordee inicie seu dia.
 - Verificar se o portão está aberto por mais de 5 minutos, para evitar que o usuário deixe aberto por esquecimento e acabe facilitando um cenário de invasão ao local.
 - Controlar a iluminação do jardim para que as luzes fiquem acesas somente durante à noite.
-- Monitorar a umidade do solo do jardim, para sinalizar quando é necessário ligar o sistema de irrigação. 
