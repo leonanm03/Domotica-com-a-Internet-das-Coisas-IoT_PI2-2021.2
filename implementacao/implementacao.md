@@ -21,7 +21,10 @@ Seguem abaixo os links de acesso para a testagem de cada componente:
 - [Display LCD](testes/display_lcd/display_lcd.md)
 - [LDR](testes/ldr/ldr.md)
 
+## Interações
 
-  
+Após testar os componentes do projeto e entender melhor como eles funcionam, foi possível então começar a fazer com que eles se relacionassem, criando novos códigos e adicionando tarefas na IDE do arduíno para que a partir de alguns comandos enviados pela comunicação serial ou então pela leitura dos sensores, acabassem ocasionando em respostas em outros componentes, como por exemplo um LED acendendendo, uma mensagem na matriz de LEDs ou no display LCD, um servo abrindo um portão ou janela, ou o buzzer emitindo o alarme sonoro. Abaixo estão listadas as interações que foram individualmente construídas e testadas.
+ 
+ 
  
 ## Referências
