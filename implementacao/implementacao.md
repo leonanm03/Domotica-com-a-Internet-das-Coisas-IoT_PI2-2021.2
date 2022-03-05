@@ -27,6 +27,7 @@ Após testar os componentes do projeto e entender melhor como eles funcionam, fo
 
 - [Sistema de detecção de chuva](interacoes/chuva/chuva.md)
 - [Sistema de campainha e controle do portão](interacoes/controle_portao/controle_portao.md)
+- [Sistema de controle de temperatura](interacoes/temperatura/temperatura.md)
  
  
  
