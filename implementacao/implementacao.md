@@ -29,6 +29,7 @@ Após testar os componentes do projeto e entender melhor como eles funcionam, fo
 - [Sistema de campainha e controle do portão](interacoes/controle_portao/controle_portao.md)
 - [Sistema de controle de temperatura](interacoes/temperatura/temperatura.md)
 - [Sistema de monitoramento de gás](interacoes/gas/gas.md)
+- [Iluminação por detecção de movimento](interacoes/luz/luz.md)
  
  
  
