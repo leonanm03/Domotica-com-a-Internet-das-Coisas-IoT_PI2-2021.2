@@ -1,6 +1,6 @@
 # Implementação
 
-Para dar continuidade ao projeto à partir das ideias que temos na [concepção](./concepcao.md) e das necessidades apontadas em [design](./design.md), se torna necessário agora "por a mão na massa" e começar a concretizar nosso protótipo utilizando os componentes eletrônicos disponíveis, programando eles na IDE do arduino e posicionando eles no nosso modelo.
+Para dar continuidade ao projeto à partir das ideias que temos na [concepção](./concepcao.md) e das necessidades apontadas em [design](./design/design.md), se torna necessário agora "por a mão na massa" e começar a concretizar nosso protótipo utilizando os componentes eletrônicos disponíveis, programando eles na IDE do arduino e posicionando eles no nosso modelo.
 
 
 ## Testes
@@ -32,6 +32,9 @@ Após testar os componentes do projeto e entender melhor como eles funcionam, fo
 - [Iluminação por detecção de movimento](interacoes/luz/luz.md)
 - [Depertador e iluminação do jardim](interacoes/sensor_luz/sensor_luz.md)
  
+ 
+ ## Código final
+ Após a implementação de todas as interações. Chegou então o momento e colocar todas juntas em um único código para ter o sistema inteiro funcionando. Realizando estas junções, apareceu também a necessidade de fazer alguns ajustes no código afim evitar alguns bugs e priorizar algumas tarefas. Montando o circuito da mesma forma que a [maquete eletrônica](./design/mqt_eletronica.png)
  
  
 ## Referências
