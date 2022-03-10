@@ -36,7 +36,9 @@ Após testar os componentes do projeto e entender melhor como eles funcionam, fo
  ## Código final
  Após a implementação de todas as interações. Chegou então o momento e colocar todas juntas em um único código para ter o sistema inteiro funcionando. Realizando estas junções, apareceu também a necessidade de fazer alguns ajustes no código afim evitar alguns bugs e priorizar algumas tarefas. Montando o circuito da mesma forma que a [maquete eletrônica](../design/mqt_eletronica.png), e utilizando o código disponibilizado abaixo. teremos então todo o projeto funcionando.
  
- código final:
+ <details>
+  <summary>Clique para mostrar/ocultar o código final!</summary>
+ 
  ```C
  // Definição dos pinos
 #define PINO_SENSOR_AGUA A1   // pino sensor agua
@@ -519,3 +521,7 @@ void tarefa_ldr() { // tarefa do sensor de luz
   }
 } 
  ```
+</details>
+ 
+ ## Projeto finalizado
+ Segue abaixo uma foto de como ficou o projeto finalizado e funcional, montado como no exemplo da [maquete eletrônica](../design/mqt_eletronica.png) e utilizando o código disponível na sessão "código final".
