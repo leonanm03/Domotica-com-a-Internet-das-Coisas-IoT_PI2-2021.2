@@ -20,7 +20,7 @@ Quantidade  | Componente
 1           | Módulo Matriz de LED 8×8 com MAX7219
 1           | Buzzer passivo
 1           | Display LCD 16×2 I2C Backlight Azul
-1           | Cooler
+1           | Cooler 5V
 1           | LDR
 1           | Resistor 10k ohms
 3           | LED
