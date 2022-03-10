@@ -23,6 +23,8 @@ Quantidade  | Componente
 1           | Cooler
 1           | LDR
 1           | Resistor 10k ohms
+3           | LED
+3           | Resistor para usar com LED
 
 ### Os componentes eletrônicos em questão funcionam da seguinte forma:
 
