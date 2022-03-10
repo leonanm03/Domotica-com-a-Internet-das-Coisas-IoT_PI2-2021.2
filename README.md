@@ -5,11 +5,11 @@
 ### Acesso rápido:
 [Concepção](./concepcao.md)
 
-[Design](./design/design.md)
+[Design](design/design.md)
 
-[Implementação](./implementacao/implementacao.md)
+[Implementação](implementacao/implementacao.md)
 
-[Operação](./operacao.md)
+[Operação](operacao/operacao.md)
 
 
 # Domótica
