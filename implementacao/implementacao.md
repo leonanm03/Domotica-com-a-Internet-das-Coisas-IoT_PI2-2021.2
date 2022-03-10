@@ -525,3 +525,7 @@ void tarefa_ldr() { // tarefa do sensor de luz
  
  ## Projeto finalizado
  Segue abaixo uma foto de como ficou o projeto finalizado e funcional, montado como no exemplo da [maquete eletrônica](../design/mqt_eletronica.png) e utilizando o código disponível na sessão "código final".
+ 
+ <img src = "maquete_final.jpeg" alt = "maquete final" width = "1000" />
+ 
+ Em [operação](../operacao/operacao.md) desse repositório, há um vídeo com o projeto funcionando.
